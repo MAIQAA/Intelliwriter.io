@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "image": "./feature1.png",
+      "title": "Image Generator",
+      "description": "Effortlessly transform words into captivating visuals with..."
+    },
+    {
+      "image": "./feature2.png",
+      "title": "Social Ads",
+      "description": "Transform social ads with AI. Craft stunning posts..."
+    },
+    {
+      "image": "./feature3.png",
+      "title": "Youtube Content",
+      "description": "Craft comprehensive content for you Youtube Channel..."
+    },
+    {
+      "image": "./feature4.png",
+      "title": "Content Generator",
+      "description": "Fuel your content effortlessly with our AI. Generate..."
+    },
+    {
+      "image": "./feature5.png",
+      "title": "Voice Generator",
+      "description": "Transform your words into captivating AI speech with..."
+    },
+    {
+      "image": "./feature6.png",
+      "title": "Digital Marketing",
+      "description": "Boost your marketing with AI-generated content,crafting..."
+    },
+    {
+      "image": "./feature7.png",
+      "title": "Content Rewrite",
+      "description": "Effortlessly revamp your content and rewriting text..."
+    },
+    {
+      "image": "./feature8.png",
+      "title": "Speech Generator",
+      "description": "Unleash the power of speech with your voice,..."
+    },
+    {
+      "image": "./feature9.png",
+      "title": "Course Builder",
+      "description": "Craft comprehensive courses effortlessly with our AI..."
+    },
+    {
+      "image": "./feature10.png",
+      "title": "Content Summary",
+      "description": "Summarize content effortlessly with our AI to simplify..."
+    },
+    {
+      "image": "./feature11.png",
+      "title": "Website Content",
+      "description": "Craft your website effortlessly! Our AI generates..."
+    },
+    {
+      "image": "./feature12.png",
+      "title": "Content Grammar",
+      "description": "Perfect your content and enhance grammar flawlessly..."
+    }
+  ]
+}
