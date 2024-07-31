@@ -42,6 +42,7 @@ export default {
       screens:{
         "sm-large":"425px",
         "custom-md-features":"650px",
+        "4k":"1500px"
     }
     },
   },

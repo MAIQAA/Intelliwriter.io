@@ -11,10 +11,14 @@ const SocialSpehere = () => {
         </div>
       </div>
 
-      <div className="w-full">
+      <div className="w-full grid justify-center">
         {/* TABLETS , DESKTOPS */}
         <div className="relative md:block hidden ">
-          <img src="./SocialAppsLandscape(1)(1).png" alt="" className="relative" />
+          <img
+            src="./SocialAppsLandscape(1)(1).png"
+            alt=""
+            className="relative"
+          />
         </div>
 
         {/* Mobile */}

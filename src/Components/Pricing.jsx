@@ -46,9 +46,9 @@ const Pricing = () => {
       </div>
 
       {/* PRICING PLAN CARDS */}
-      <div className="flex md:flex-row flex-col gap-7 lg:p-10 p-5 justify-items-center items-center">
+      <div className="flex md:flex-row flex-col gap-7 lg:p-10 p-5 justify-items-center items-center 4k:justify-center">
         {/* PLAN 1 */}
-        <div className=" mb-7 md:mb-0 lg:w-3/5 md:w-10/12 w-[250px] text-white border border-white bg-gradient-to-br from-[#3C2C5F] via-[#150a37] to-[#3C2C5F] rounded-2xl hover:bg-blend-overlay hover:bg-[#ffffff0c]">
+        <div className=" mb-7 md:mb-0 lg:w-3/5 md:w-10/12 w-[250px] 4k:w-1/5 text-white border border-white bg-gradient-to-br from-[#3C2C5F] via-[#150a37] to-[#3C2C5F] rounded-2xl hover:bg-blend-overlay hover:bg-[#ffffff0c]">
           <div className="space-y-7 lg:px-5 px-3 py-10">
             {/* DEAL NAME */}
             <div className="flex gap-5">
@@ -107,7 +107,7 @@ const Pricing = () => {
         </div>
 
         {/* PLAN 2 */}
-        <div className="-mt-7 lg:w-2/3 md:w-11/12  w-[250px] text-white border border-white bg-gradient-to-br from-[#3C2C5F] via-[#150a37] to-[#3C2C5F] rounded-2xl hover:bg-blend-overlay hover:bg-[#ffffff0c]">
+        <div className="-mt-7 lg:w-2/3 md:w-11/12 4k:w-1/5  w-[250px] text-white border border-white bg-gradient-to-br from-[#3C2C5F] via-[#150a37] to-[#3C2C5F] rounded-2xl hover:bg-blend-overlay hover:bg-[#ffffff0c]">
           {/* Recommended */}
           <div className="bg-gradient-to-r from-[#24153B] to-[#40196F] rounded-t-2xl text-center py-1 text-lg font-semibold">
             <h1>Recommended</h1>
@@ -185,7 +185,7 @@ const Pricing = () => {
         </div>
 
         {/* PLAN 3 */}
-        <div className="lg:w-3/5 md:w-10/12 w-[250px] text-white border border-white bg-gradient-to-br from-[#3C2C5F] via-[#150a37] to-[#3C2C5F] rounded-2xl hover:bg-blend-overlay hover:bg-[#ffffff0c]">
+        <div className="lg:w-3/5 md:w-10/12 w-[250px] 4k:w-1/5 text-white border border-white bg-gradient-to-br from-[#3C2C5F] via-[#150a37] to-[#3C2C5F] rounded-2xl hover:bg-blend-overlay hover:bg-[#ffffff0c]">
           <div className="space-y-7 lg:px-5 px-3 lg:py-10 py-5">
             {/* DEAL NAME */}
             <div className="relative flex gap-5">

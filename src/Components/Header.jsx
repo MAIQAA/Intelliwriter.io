@@ -33,8 +33,8 @@ const Header = () => {
   return (
     <main>
       {/* NAVBAR FOR LARGE DEVICES */}
-      <nav className="w-full xl:px-14 lg:px-3 py-5 z-40 relative lg:fixed border-b lg:block hidden border-gray-400 backdrop-blur-sm">
-        <div className="flex justify-between items-center">
+      <nav className="w-full 4k:px-96  xl:px-14 lg:px-3 py-5 z-40 relative lg:fixed border-b lg:block hidden border-gray-400 backdrop-blur-sm">
+        <div className="flex justify-between items-center 4k:justify-evenly">
           {/* LOGO */}
           <div className="xl:max-w-[150px] lg:max-w-[120px] self-center">
             <NavLink to="/">
