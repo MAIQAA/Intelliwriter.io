@@ -33,7 +33,7 @@ export const AllComponents = () => {
         <SocialSpehere />
         <FAQ />
         <Footer />
-        <div className="fixed right-0 top-[80%] mb-10 mr-2 rounded-full bg-[#FFFF00] border-4 border-[#7B1FA2] p-4">
+        <div className="fixed z-[100] right-0 top-[80%] mb-10 mr-2 rounded-full bg-[#FFFF00] border-4 border-[#7B1FA2] p-4">
           <svg
             stroke="currentColor"
             fill="currentColor"

@@ -69,7 +69,7 @@ const Buttons = () => {
 
       <div className="relative w-full overflow-hidden min-h-screen 2xl:min-h-[800px] 2xl:w-3/4 z-20 opacity-20">
         {/* COLUMNS */}
-        <div className="absolute w-full h-full flex flex-row xl:gap-[110px] lg:gap-[90px] md:gap-[65px] gap-[60px] justify-center ">
+        <div className="absolute w-full h-full flex flex-row xl:gap-[110px] lg:!gap-[90px] md:gap-[65px] gap-[60px] justify-center ">
           <hr className="border-0 !w-px h-full text-white bg-white" />
           <hr className="border-0 !w-px h-full text-white bg-white" />
           <hr className="border-0 !w-px h-full text-white bg-white" />
@@ -85,7 +85,7 @@ const Buttons = () => {
         </div>
 
         {/* ROWS */}
-        <div className="absolute w-full h-full flex flex-col xl:gap-[110px] lg:!gap-[87px] md:gap-[65px] gap-[60px] justify-center">
+        <div className="absolute w-full h-full flex flex-col xl:gap-[110px] lg:!gap-[90px] md:gap-[65px] gap-[60px] justify-center">
           <hr className="border-0 w-full h-px text-white bg-white" />
           <hr className="border-0 w-full h-px text-white bg-white" />
           <hr className="border-0 w-full h-px text-white bg-white" />
