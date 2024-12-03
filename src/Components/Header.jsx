@@ -254,15 +254,15 @@ const Header = () => {
         </ul>
 
         {/* BUTTONS */}
-        <div className="mt-16 flex justify-center w-full">
-          <div className="grid space-y-5 md:w-3/4 w-full text-white font-medium">
+        <div className="mt-16 flex justify-center md:justify-start w-full">
+          <div className="grid space-y-5 w-full text-white font-medium">
             <NavLink to="/register">
-              <button className="bg-gradient-to-r from-[#6A25BE] to-[#511F8F] rounded-full px-6 py-2">
+              <button className="bg-gradient-to-r from-[#6A25BE] to-[#511F8F] rounded-full px-6 py-2 w-full">
                 Register
               </button>
             </NavLink>
             <NavLink to="./login">
-              <button className="border-2 border-white px-6 py-1.5 rounded-full">
+              <button className="border-2 border-white px-6 py-1.5 rounded-full w-full">
                 Login
               </button>
             </NavLink>
