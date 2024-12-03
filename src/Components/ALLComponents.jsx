@@ -17,7 +17,7 @@ import VoiceExperience from "./VoiceExperience";
 export const AllComponents = () => {
   return (
     <>
-      <div className="relative bg-[#0F062C]">
+      <div className="relative bg-[#0F062C] md:container mx-auto">
         <Header />
         <HeroSection />
         <Animation />

@@ -1,7 +1,7 @@
 const VoiceExperience = () => {
   return (
-    <div className=" w-full py-10 px-4 lg:flex-row flex flex-col  justify-center">
-      <div className="2xl:w-4/6 2xl:flex lg:flex lg:flex-row flex flex-col-reverse items-center gap-8">
+    <div className=" w-full py-10 px-4 lg:flex-row flex flex-col justify-center">
+      <div className="2xl:flex lg:flex lg:flex-row flex flex-col-reverse items-center gap-8">
         
 
         <div className="grid gap-7 lg:text-left text-center lg:w-1/2">
@@ -23,7 +23,7 @@ const VoiceExperience = () => {
           </p>
         </div>
 
-        <div className="grid justify-center items-center lg:w-1/2 md:px-20 lg:px-0 2xl:w-2/5">
+        <div className="grid justify-center items-center lg:w-1/2">
           <img src="./voice-over-min.png" alt="" className="w-fit" />
         </div>
       </div>

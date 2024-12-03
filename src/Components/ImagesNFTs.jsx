@@ -1,6 +1,6 @@
 export const ImagesNFTs = () => {
   return (
-    <div className="grid gap-14 px-10 lg:px-[110px] py-10 pt-28 2xl:px-[17%]">
+    <div className="grid gap-14 px-10 py-10 pt-28">
       {/* TITLE */}
       <div className="relative grid lg:text-6xl md:text-5xl text-4xl lg:left-4">
         <div className="uppercase absolute text-border text-gray-200 text-opacity-75  bottom-4 lg:bottom-5 lg:-left-4">

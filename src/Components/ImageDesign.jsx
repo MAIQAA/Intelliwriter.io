@@ -1,8 +1,8 @@
 const ImageDesign = () => {
   return (
     <div className=" w-full py-10 px-4 flex lg:flex-row flex-col justify-center">
-      <div className="2xl:w-4/6 2xl:flex lg:flex lg:flex-row md:flex md:flex-col items-center gap-8 ">
-        <div className="grid justify-center items-center lg:w-1/2 md:px-20 lg:px-0 2xl:w-2/5">
+      <div className=" 2xl:flex lg:flex lg:flex-row md:flex md:flex-col items-center gap-8 ">
+        <div className="grid justify-center items-center lg:w-1/2">
           <img src="./image-gen-min.png" alt="" className="w-fit" />
         </div>
 
