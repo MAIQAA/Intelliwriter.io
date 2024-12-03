@@ -58,10 +58,10 @@ const Header = () => {
               AI Tools
               {/* AI TOOLS DROPDOWN */}
               <div
-                className={`absolute w-[900px] left-0 bg-[#020411] text-white ${isdrop ? "block" : "hidden"} shadow-lg`}
+                className={`absolute w-[900px] top-10 bg-[#020411] text-white ${isdrop ? "block" : "hidden"} shadow-lg`}
               >
-                <ul className="grid grid-cols-3 gap-4 p-10">
-                  <div className="space-y-10">
+                <ul className="flex justify-between p-10 gap-10">
+                  <div className="space-y-14">
                     <li className="flex items-center gap-3 hover:text-gray-400">
                       <FaBloggerB className="text-2xl" /> Blog Content
                     </li>
@@ -76,7 +76,7 @@ const Header = () => {
                       <FaYoutube className="text-2xl" /> Youtube Content
                     </li>
                   </div>
-                  <div className="space-y-10">
+                  <div className="space-y-14">
                     <li className="flex items-center gap-3 hover:text-gray-400">
                       <FaRegShareSquare className="text-2xl" /> Social Media
                     </li>
@@ -91,7 +91,7 @@ const Header = () => {
                       <RiChatSmileLine className="text-2xl" /> AI Chat
                     </li>
                   </div>
-                  <div className="space-y-10">
+                  <div className="space-y-14">
                     <li className="flex items-center gap-3 hover:text-gray-400">
                       <SiGooglemarketingplatform className="text-2xl" />{" "}
                       Marketing

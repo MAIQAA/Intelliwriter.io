@@ -2,7 +2,7 @@ import Data from "./Features.json";
 export const Features = () => {
   return (
     <>
-      <div className="grid gap-14 p-10 pt-32">
+      <div className="grid gap-14 p-10 lg:px-[110px] pt-32 2xl:px-[17%]">
         {/* TITLE */}
         <div className="relative grid lg:text-6xl md:text-5xl text-4xl lg:left-4">
           <div className="uppercase absolute text-border text-gray-200 text-opacity-75  bottom-4 lg:bottom-5 lg:-left-4">
